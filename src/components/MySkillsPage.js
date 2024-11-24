@@ -84,11 +84,21 @@ const MySkillsPage = () => {
 
   useEffect(() => {
     const code = `
-import mr-robot-abhi from 'github';
-import {List of Tech Stack Used} from '2012';
-...
-...
-export full-stack-dev
+// Importing the legend himself 🤖
+import { mrRobotAbhi } from 'github';
+
+// Tech stack arsenal since 2012 ⚡
+import {
+ ...
+} from 'tech-stack';
+// Crafting scalable solutions, pixel-perfect UIs & secure APIs 🚀
+const fullStackDeveloper = {
+  alias: 'mrRobotAbhi',
+  expertise: ['Frontend Wizardry', 'Backend Engineering', 'Cloud Integration'],
+  passion: 'Building digital experiences that inspire.',
+  availableFor: ['Freelance', 'Collaborations', 'Open Source'],
+};
+export default fullStackDeveloper;
 `;
     let i = 0;
     const interval = setInterval(() => {
