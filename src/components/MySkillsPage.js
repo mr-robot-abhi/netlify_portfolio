@@ -8,7 +8,7 @@ import ParticleComponent from '../subComponents/ParticleComponent';
 import { motion } from 'framer-motion';
 import { DiReact, DiJavascript, DiCss3, DiHtml5, DiNodejs, DiPython, DiAws } from 'react-icons/di';
 import { SiTypescript, SiRedux, SiFirebase, SiMongodb, SiNextdotjs, SiVuedotjs, SiReact, SiExpo, SiAndroidstudio } from 'react-icons/si';
-import { SiRuby, SiJava, SiPhp, SiRust, SiAngular, SiPostgresql, SiMysql, SiGooglecloud, SiMicrosoftazure } from 'react-icons/si';
+import { SiAngular, SiPostgresql, SiMysql, SiGooglecloud, SiMicrosoftazure } from 'react-icons/si';
 
 const Container = styled.div`
   background-color: ${props => props.theme.body};
@@ -120,6 +120,17 @@ export full-stack-dev
               </IconLink>
             </IconItem>
             <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
+              <IconLink href="https://nodejs.org/" target="_blank">
+                <Icon><DiNodejs /></Icon>
+              </IconLink>
+            </IconItem>
+            {/* React Icon */}
+            <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
+              <IconLink href="https://reactjs.org/" target="_blank">
+                <Icon><DiReact /></Icon>
+              </IconLink>
+            </IconItem>
+            <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
               <IconLink href="https://www.typescriptlang.org/" target="_blank">
                 <Icon><SiTypescript /></Icon>
               </IconLink>
@@ -127,16 +138,6 @@ export full-stack-dev
             <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
               <IconLink href="https://www.python.org/" target="_blank">
                 <Icon><DiPython /></Icon>
-              </IconLink>
-            </IconItem>
-            <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
-              <IconLink href="https://www.ruby-lang.org/en/" target="_blank">
-                <Icon><SiRuby /></Icon>
-              </IconLink>
-            </IconItem>
-            <IconItem animate={{ y: [0, -10, 0] }} transition={{ duration: 2, repeat: Infinity, ease: 'easeInOut' }}>
-              <IconLink href="https://www.php.net/" target="_blank">
-                <Icon><SiPhp /></Icon>
               </IconLink>
             </IconItem>
           </IconColumn>
