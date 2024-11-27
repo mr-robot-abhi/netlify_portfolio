@@ -1,17 +1,26 @@
 # Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-This repository contains Final code for The Portfolio Website in ReactJS. <br />
+Screenshot of my portfolio Website: ![Demo App](/src/assets/screenshot.png)
+
+My Website is live at : [https://mr-robot-abhi.netlify.app/](url)
 
 
-[⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br />]::
+This repository contains the Final code for The Portfolio Website in ReactJS. <br />
+
+
+[⚠⚠⚠ If you want the full code of this website then you can get it from here👇: <br />]::
 [https://github.com/mr-robot-abhi/portfolio]
-You'll get code files which contans code for responsive portfolio website with
+You'll get code files which contain code for responsive portfolio website with
 all the animations.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Clone the Repository. 
+
+### `npm install`
 
 In the project directory, you can run:
 
