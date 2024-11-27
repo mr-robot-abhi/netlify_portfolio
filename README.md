@@ -1,6 +1,6 @@
 # Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-Screenshot of my portfolio Website: ![Screenshot](/src/assets/images/screenshot.PNG)
+Screenshot of my portfolio Website: ![Screenshot](/src/assets/Images/screenshot.PNG)
 
 My Website is live at : [https://mr-robot-abhi.netlify.app/](url)
 
