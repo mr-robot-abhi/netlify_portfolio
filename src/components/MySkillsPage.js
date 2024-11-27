@@ -4,7 +4,6 @@ import { lightTheme } from './Themes';
 import LogoComponent from '../subComponents/LogoComponent';
 import SocialIcons from '../subComponents/SocialIcons';
 import PowerButton from '../subComponents/PowerButton';
-import ParticleComponent from '../subComponents/ParticleComponent';
 import { motion } from 'framer-motion';
 import { DiReact, DiJavascript, DiCss3, DiHtml5, DiNodejs, DiPython, DiAws } from 'react-icons/di';
 import { SiTypescript, SiRedux, SiFirebase, SiMongodb, SiNextdotjs, SiVuedotjs, SiReact, SiExpo, SiAndroidstudio } from 'react-icons/si';
@@ -116,7 +115,6 @@ export default fullStackDeveloper;
         <LogoComponent theme='light' />
         <SocialIcons theme='light' />
         <PowerButton />
-        <ParticleComponent theme = 'light'/>
         <CodeBlock>
           <CodeText>{codeText}</CodeText>
         </CodeBlock>
