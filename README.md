@@ -1,6 +1,6 @@
 # Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-Screenshot of my portfolio Website: ![Demo App](/src/assets/screenshot.png)
+Screenshot of my portfolio Website: (/src/assets/screenshot.png)
 
 My Website is live at : [https://mr-robot-abhi.netlify.app/](url)
 
@@ -20,9 +20,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone the Repository. 
 
-### `npm install`
-
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
