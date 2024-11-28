@@ -195,3 +195,21 @@ export const Develope = (props) => {
   )
 
 }
+export const LinkedIn = (props) => {
+  return (
+    <svg
+      aria-hidden="true"
+      data-prefix="fab"
+      data-icon="linkedin"
+      className="prefix__svg-inline--fa prefix__fa-linkedin prefix__fa-w-16"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 448 512"
+      {...props}
+    >
+      <path
+        fill={props.fill}
+        d="M100.28 448H7.4V148.9h92.88zM53.79 108.1c-31.5 0-57.06-25.57-57.06-57.06S22.3 0 53.79 0c31.49 0 57.06 25.57 57.06 57.06s-25.57 57.04-57.06 57.04zm394.2 339.9h-92.6V312c0-32.4-11.6-54.4-40.4-54.4-22 0-35 14.8-40.8 29.1-2.1 5.1-2.7 12.2-2.7 19.3v141.9h-92.88s1.2-230.4 0-254.2h92.88v36c12.3-19 34.4-45.9 83.6-45.9 61 0 106.7 39.7 106.7 124.9V448z"
+      />
+    </svg>
+  );
+};
