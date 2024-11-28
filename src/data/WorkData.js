@@ -3,12 +3,12 @@
 export const Work = [
     {
         id:1,
-        name:"Pokémon Search App",
-        description:"A responsive web application for searching and viewing details of Pokémon, built using Next.js, React, Tailwind CSS, and the PokéAPI.",
-        tags:["react","gsap","styledComponents"],
+        name:"E-Commerce_MERN_App",
+        description:"A responsive e-commerce web application that is built using MERN Stack.",
+        tags:["react","MERN","styledComponents"],
         
-        demo:"https://github.com/mr-robot-abhi/pokemon_search_app",
-        github:"https://github.com/mr-robot-abhi/pokemon_search_app"
+        demo:"https://github.com/mr-robot-abhi/E-Commerce_MERN_App",
+        github:"https://github.com/mr-robot-abhi/E-Commerce_MERN_App"
     },
     {
         id:2,
@@ -22,21 +22,21 @@ export const Work = [
     },
     {
         id:3,
-        name:"Simple Weather App",
-        description:"A Weather App giving details of a particular city",
-        tags:["react","api","sass"],
+        name:"Real-Time Chat App",
+        description:"A real-time chat application built using MERN Stack, JWT and Socket.io",
+        tags:["MERN","api","socket.io"],
         
-        demo:"https://github.com/mr-robot-abhi/simple-weather-app",
-        github:"https://github.com/mr-robot-abhi/simple-weather-app"
+        demo:"https://github.com/mr-robot-abhi/MERN_chat_app",
+        github:"https://github.com/mr-robot-abhi/MERN_chat_app"
     },
     {
         id:4,
-        name:"Flappy Bird Game",
-        description:"Basic version of the flappy bird game built using react",
-        tags:["react","styledComponents"],
+        name:"Linkedin Clone",
+        description:"Linkedin Clone with MERN Stack, JWT and Mailtrap",
+        tags:["MERN","JWT","Mailtrap"],
         
-        demo:"https://github.com/mr-robot-abhi/flappy-bird-game",
-        github:"https://github.com/mr-robot-abhi/flappy-bird-game"
+        demo:"https://github.com/mr-robot-abhi/LinkedIn_Clone_MERN",
+        github:"https://github.com/mr-robot-abhi/LinkedIn_Clone_MERN"
        
     },{
         id:5,
@@ -50,12 +50,12 @@ export const Work = [
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"Generate Random Quotes.",
-        tags:["react","react-router","css"],
+        name:"Pokémon Search App",
+        description:"A responsive web application for searching and viewing details of Pokémon, built using Next.js, React, Tailwind CSS, and the PokéAPI.",
+        tags:["nextjs","tailwind","Poke API","Axios"],
         
-        demo:"https://github.com/mr-robot-abhi/random-quote-generator",
-        github:"https://github.com/mr-robot-abhi/random-quote-generator"
+        demo:"https://github.com/mr-robot-abhi/pokemon_search_app",
+        github:"https://github.com/mr-robot-abhi/pokemon_search_app"
         
     },
     
