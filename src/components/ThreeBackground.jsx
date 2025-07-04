@@ -6,11 +6,13 @@ import {
   Float, 
   Text3D, 
   Center,
-  Environment,
+  Environment
+} from '@react-three/drei';
+import { 
   EffectComposer,
   Bloom,
   ChromaticAberration
-} from '@react-three/drei';
+} from '@react-three/postprocessing';
 import { useFrame } from '@react-three/fiber';
 import { useRef } from 'react';
 import * as THREE from 'three';
