@@ -68,4 +68,4 @@ export const Blogs = [
         link:"https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3"
     },
   
-] 
+]
