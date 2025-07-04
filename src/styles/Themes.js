@@ -5,12 +5,14 @@ export const lightTheme = {
   secondary: "#764ba2",
   accent: "#ff6b6b",
   neonGlow: "#667eea",
-  glassBackground: "rgba(255, 255, 255, 0.15)",
-  glassBorder: "rgba(255, 255, 255, 0.3)",
+  glassBackground: "rgba(255, 255, 255, 0.25)",
+  glassBorder: "rgba(255, 255, 255, 0.4)",
   glassShadow: "0 8px 32px 0 rgba(31, 38, 135, 0.37)",
   particleColor: "#667eea",
   textRgba: "45, 55, 72",
-  bodyRgba: "102, 126, 234"
+  bodyRgba: "102, 126, 234",
+  cardBackground: "rgba(255, 255, 255, 0.2)",
+  cardBorder: "rgba(255, 255, 255, 0.3)"
 };
 
 export const darkTheme = {
@@ -20,10 +22,12 @@ export const darkTheme = {
   secondary: "#ff00ff",
   accent: "#ffff00",
   neonGlow: "#00ffff",
-  glassBackground: "rgba(0, 0, 0, 0.3)",
-  glassBorder: "rgba(0, 255, 255, 0.2)",
-  glassShadow: "0 8px 32px 0 rgba(0, 255, 255, 0.1)",
+  glassBackground: "rgba(0, 0, 0, 0.4)",
+  glassBorder: "rgba(0, 255, 255, 0.3)",
+  glassShadow: "0 8px 32px 0 rgba(0, 255, 255, 0.2)",
   particleColor: "#00ffff",
   textRgba: "255, 255, 255",
-  bodyRgba: "12, 12, 12"
+  bodyRgba: "12, 12, 12",
+  cardBackground: "rgba(0, 0, 0, 0.3)",
+  cardBorder: "rgba(0, 255, 255, 0.2)"
 };
