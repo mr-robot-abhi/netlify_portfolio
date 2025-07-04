@@ -1,9 +1,9 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import styled, { ThemeProvider } from 'styled-components';
 import { lightTheme, DarkTheme } from './Themes';
-import LogoComponent from '../subComponents/LogoComponent';
-import SocialIcons from '../subComponents/SocialIcons';
-import PowerButton from '../subComponents/PowerButton';
+import LogoComponent from './LogoComponent';
+import SocialIcons from './SocialIcons';
+import PowerButton from './PowerButton';
 import { motion } from 'framer-motion';
 import { DiReact, DiJavascript, DiCss3, DiHtml5, DiNodejs, DiPython, DiAws } from 'react-icons/di';
 import { SiTypescript, SiRedux, SiFirebase, SiMongodb, SiNextdotjs, SiVuedotjs, SiExpo, SiAndroidstudio, SiGooglecloud } from 'react-icons/si';
@@ -11,7 +11,7 @@ import { SiPostgresql, SiMysql, SiMicrosoftsqlserver, SiVisualstudiocode } from 
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Stars, Text3D, Center } from '@react-three/drei';
 import * as THREE from 'three';
-import ThemeToggle from '../subComponents/ThemeToggle';
+import ThemeToggle from './ThemeToggle';
 
 const Container = styled.div`
   background: ${props => props.theme.body};
