@@ -1,0 +1,58 @@
+{
+  "glyphs": {
+    "A": {
+      "ha": 1479,
+      "x_min": 0,
+      "x_max": 1479,
+      "o": "m 739 1462 l 369 0 l 1108 0 l 1479 0 l 1479 1462 l 1108 1462 l 739 1462 m 554 1147 l 925 1147 l 925 776 l 554 776 l 554 1147 m 185 831 l 1294 831 l 1294 461 l 185 461 l 185 831 m 0 0 l 1479 0 l 1479 315 l 0 315 l 0 0 z"
+    },
+    "B": {
+      "ha": 1479,
+      "x_min": 0,
+      "x_max": 1479,
+      "o": "m 185 1462 l 185 0 l 925 0 q 1294 0 1294 369 q 1294 554 1108 554 q 1294 739 1294 1108 q 1294 1462 925 1462 l 185 1462 m 554 1147 l 925 1147 q 925 925 925 925 q 925 831 739 831 l 554 831 l 554 1147 m 554 516 l 925 516 q 925 369 925 369 q 925 315 739 315 l 554 315 l 554 516 z"
+    },
+    "C": {
+      "ha": 1479,
+      "x_min": 0,
+      "x_max": 1479,
+      "o": "m 1294 1147 l 925 1147 q 739 1147 739 925 l 739 537 q 739 315 925 315 l 1294 315 l 1294 0 l 925 0 q 185 0 185 537 l 185 925 q 185 1462 925 1462 l 1294 1462 l 1294 1147 z"
+    },
+    " ": {
+      "ha": 651,
+      "x_min": 0,
+      "x_max": 0,
+      "o": ""
+    }
+  },
+  "familyName": "Helvetiker",
+  "ascender": 1193,
+  "descender": -289,
+  "underlinePosition": -150,
+  "underlineThickness": 50,
+  "boundingBox": {
+    "yMin": -289,
+    "xMin": -166,
+    "yMax": 1193,
+    "xMax": 1777
+  },
+  "resolution": 1000,
+  "original_font_information": {
+    "format": 0,
+    "copyright": "Copyright (c) 2009 by Linotype GmbH. All rights reserved.",
+    "fontFamily": "Helvetiker",
+    "fontSubFamily": "Regular",
+    "uniqueID": "LinotypeGmbH: Helvetiker Regular: 2009",
+    "fullName": "Helvetiker",
+    "version": "Version 1.000;PS 001.001;hotconv 1.0.38",
+    "postScriptName": "Helvetiker-Regular",
+    "trademark": "Helvetiker is a trademark of Linotype GmbH and may be registered in certain jurisdictions.",
+    "manufacturer": "Linotype GmbH",
+    "designer": "Max Miedinger",
+    "description": "Copyright (c) 2009 by Linotype GmbH. All rights reserved. Licensed to Ascender Corporation.",
+    "manufacturerURL": "http://www.linotype.com",
+    "designerURL": "http://www.linotype.com",
+    "licence": "You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+    "licenceURL": "http://www.linotype.com/1321/legal.html"
+  }
+}
