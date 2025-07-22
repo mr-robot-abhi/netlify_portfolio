@@ -6,6 +6,12 @@
 
 @layer base {
   :root {
+    --neon-cyan: #00ffff;
+    --neon-pink: #ff006e;
+    --neon-yellow: #ffbe0b;
+    --neon-green: #06ffa5;
+    --neon-purple: #8338ec;
+    --neon-blue: #3a86ff;
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
     --card: 0 0% 100%;
@@ -29,6 +35,12 @@
   }
 
   .dark {
+    --neon-cyan: #00ffff;
+    --neon-pink: #ff006e;
+    --neon-yellow: #ffbe0b;
+    --neon-green: #06ffa5;
+    --neon-purple: #8338ec;
+    --neon-blue: #3a86ff;
     --background: 222.2 84% 4.9%;
     --foreground: 210 40% 98%;
     --card: 222.2 84% 4.9%;
@@ -76,10 +88,10 @@
   
   .neon-text {
     text-shadow: 
-      0 0 5px theme('colors.neon.cyan'),
-      0 0 10px theme('colors.neon.cyan'),
-      0 0 15px theme('colors.neon.cyan'),
-      0 0 20px theme('colors.neon.cyan');
+      0 0 5px var(--neon-cyan),
+      0 0 10px var(--neon-cyan),
+      0 0 15px var(--neon-cyan),
+      0 0 20px var(--neon-cyan);
   }
   
   .cyber-grid {
